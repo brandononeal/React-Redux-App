@@ -9,6 +9,7 @@ function App() {
       <img
         src="https://media1.tenor.com/images/6af63d02d8781833b77d65c0ec051c4d/tenor.gif?itemid=17974316"
         alt="cat-dancing"
+        width="25%"
       />
       <Fact />
     </div>
